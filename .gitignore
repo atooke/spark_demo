@@ -1,0 +1,11 @@
+# data files
+*.csv
+#directories
+spark-warehouse/
+.ipynb_checkpoints/
+
+# removing internal K8's file
+deployment.yaml
+
+# ignore mac os dir
+.DS_Store
